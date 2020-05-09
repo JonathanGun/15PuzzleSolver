@@ -16,6 +16,16 @@ Example:
 python main.py -i ../test/solve_easy.txt
 ```
 -----
+Sample Input:
+```
+4 4
+5 1 7 3
+9 2 11 4
+13 6 15 8
+0 10 14 12
+```
+-----
+Sample Output:
 ```
 ==== Initial matrix ====
 board size: (4, 4)
